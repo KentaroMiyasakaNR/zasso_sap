@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Biua6nGQ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DWsuuRZo.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/report-map.js": {
+    "file": "assets/report-map-CnG6xoNU.js",
+    "name": "report-map",
+    "src": "resources/js/report-map.js",
+    "isEntry": true
+  },
+  "resources/js/report.js": {
+    "file": "assets/report-B0men5yu.js",
+    "name": "report",
+    "src": "resources/js/report.js",
+    "isEntry": true
+  }
+}
