@@ -49,6 +49,7 @@
     <div class="container">
         <img src="{{ asset('images/GairAIロゴ仮.png') }}" alt="GairAI Logo" style="height: 100px; width: auto;">
         <h1>gairAI</h1>
+        
         <div>
             @if (Route::has('login'))
                 @auth
