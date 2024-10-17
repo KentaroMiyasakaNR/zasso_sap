@@ -2,7 +2,7 @@
     <x-slot name="header">
         <div style="display: flex; justify-content: space-between; align-items: center;">
             <h2 style="font-size: 24px; color: #333;">
-                {{ __('Gair AI') }}
+                {{ __('gairAI') }}
             </h2>
             <div style="display: flex; align-items: center;">
                 <a href="{{ asset('PDF/gairAI利用規約.pdf') }}" target="_blank" style="color: #2196F3; text-decoration: underline; margin-right: 20px; font-size: 14px;">

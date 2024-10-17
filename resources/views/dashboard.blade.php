@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 style="text-align: center; font-size: 24px; color: #333;">
-            {{ __('Gair ai') }}
+            {{ __('gairAi') }}
         </h2>
     </x-slot>
 
